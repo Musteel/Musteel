@@ -1,6 +1,6 @@
 ## Hi, I'm Mustafa!!
 
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other learners.
 - 🥅 2023 Goals: Learn more about A.I.
 
