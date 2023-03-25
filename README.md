@@ -17,6 +17,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sanity" width="26px" src="https://img.jsdelivr.com/github.com/sanity-io.png" style="padding-right:10px;" />
+<img align="left" alt="Vercel" width="26px" src="https://img.jsdelivr.com/github.com/vercel.png" style="padding-right:10px;" />
 <br><br/>
 
 ---
